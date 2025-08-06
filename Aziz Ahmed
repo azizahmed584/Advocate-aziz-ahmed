@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advocate Aziz Ahmed</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; }
+        header, footer { background: #222; color: white; text-align: center; padding: 20px; }
+        nav { background: #333; text-align: center; padding: 10px; }
+        nav a { color: white; margin: 10px; text-decoration: none; }
+        section { background: white; padding: 20px; max-width: 800px; margin: 20px auto; }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Advocate Aziz Ahmed</h1>
+    <p>Jaipur, Rajasthan | High Court & Sessions Court</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#practice">Practice</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>I am Advocate Aziz Ahmed, enrolled with the Bar Council of Rajasthan, practicing in Jaipur. I specialize in Criminal Law, Bail, Matrimonial Disputes, and Cheque Bounce matters.</p>
+</section>
+
+<section id="practice">
+    <h2>Practice Areas</h2>
+    <ul>
+        <li>Criminal Defense (Bail & Trials)</li>
+        <li>Cheque Bounce (Section 138 NI Act)</li>
+        <li>Family Law (Divorce, Maintenance)</li>
+        <li>Property Disputes</li>
+        <li>Legal Notices & Drafting</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p><strong>Phone:</strong> <a href="tel:+918290636786">8290636786</a></p>
+    <p><strong>Email:</strong> <a href="mailto:azizahmed584@gmail.com">azizahmed584@gmail.com</a></p>
+    <p><strong>Location:</strong> Jaipur, Rajasthan</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Advocate Aziz Ahmed | All Rights Reserved</p>
+</footer>
+</body>
+</html>
